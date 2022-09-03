@@ -4,7 +4,7 @@ cheat-sheet [![Awesome][AWESOME BADGE]][AWESOME PAGE]
 
 Table of Contents
 ----
-Use the "Table on Contents" menu on the top-left corner to explore the list.
+Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 Frameworks
 ----
