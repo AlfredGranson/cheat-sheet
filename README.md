@@ -20,6 +20,7 @@ Standards
 - [Swagger](https://github.com/AlfredGranson)
 - [Code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 - [EditorConfig](https://editorconfig.org/)
+- [dotenv](https://github.com/search?q=dotenv)
 
 Semantics
 ----
