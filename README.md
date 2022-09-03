@@ -30,6 +30,12 @@ DevOps
 - [Docker](https://www.docker.com/)
     - [Docker compose](https://docs.docker.com/compose/) [:shushing_face: ](https://devhints.io/docker-compose)
 
+I have to have my tools
+----
+- [Favicon Generator](https://realfavicongenerator.net/)
+- [Sublime text](https://www.sublimetext.com/)
+- [IcoMoon (font/icon generator)](https://icomoon.io/app/)
+
 Honorable Mentions
 ----
 - [Phoenix Ecto Append-only Log *Example*](https://github.com/dwyl/phoenix-ecto-append-only-log-example)
