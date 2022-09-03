@@ -35,6 +35,7 @@ I have to have my tools
 - [Favicon Generator](https://realfavicongenerator.net/)
 - [Sublime text](https://www.sublimetext.com/)
 - [IcoMoon (font/icon generator)](https://icomoon.io/app/)
+- [Postman](https://www.postman.com/)
 
 Honorable Mentions
 ----
