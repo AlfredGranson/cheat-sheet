@@ -27,10 +27,11 @@ Semantics
 
 DevOps
 ----
+- [Kubernetes](https://kubernetes.io/)
 - [Docker](https://www.docker.com/)
     - [Docker compose](https://docs.docker.com/compose/) [:shushing_face: ](https://devhints.io/docker-compose)
 
-I have to have my tools
+I have to have my tools 🧰
 ----
 - [Favicon Generator](https://realfavicongenerator.net/)
 - [Sublime text](https://www.sublimetext.com/)
