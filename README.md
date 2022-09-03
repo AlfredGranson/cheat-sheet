@@ -18,6 +18,7 @@ Standards
 - [Scripts To Rule Them All](https://github.com/github/scripts-to-rule-them-all)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Swagger](https://github.com/AlfredGranson)
+- [Code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
 Semantics
 ----
