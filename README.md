@@ -17,10 +17,13 @@ Standards
 - [json:api](https://jsonapi.org/)
 - [Scripts To Rule Them All](https://github.com/github/scripts-to-rule-them-all)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [Swagger](https://github.com/AlfredGranson)
 - [Code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 - [EditorConfig](https://editorconfig.org/)
 - [dotenv](https://github.com/search?q=dotenv)
+
+Documentation
+----
+- [Swagger](https://github.com/AlfredGranson)
 
 Semantics
 ----
@@ -36,7 +39,7 @@ I have to have my tools 🧰
 ----
 - [Favicon Generator](https://realfavicongenerator.net/)
 - [Sublime text](https://www.sublimetext.com/)
-- [IcoMoon (font/icon generator)](https://icomoon.io/app/)
+- [IcoMoon](https://icomoon.io/app/)
 - [Postman](https://www.postman.com/)
 
 Honorable Mentions
