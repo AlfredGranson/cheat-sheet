@@ -21,7 +21,6 @@ Standards
 - [EditorConfig](https://editorconfig.org/)
 - [dotenv](https://github.com/search?q=dotenv)
 - [mailmap](https://git-scm.com/docs/gitmailmap)
-- [.gitcommit](https://thoughtbot.com/blog/better-commit-messages-with-a-gitmessage-template)
 
 Documentation
 ----
