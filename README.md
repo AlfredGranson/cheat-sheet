@@ -24,7 +24,7 @@ Standards
 
 Documentation
 ----
-- [Swagger](https://github.com/AlfredGranson)
+- [Swagger](https://swagger.io/)
 
 Semantics
 ----
