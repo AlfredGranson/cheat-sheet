@@ -1,6 +1,6 @@
-cheat-sheet [![Awesome][AWESOME BADGE]][AWESOME PAGE]
+cheat-sheet
 ===
-> Where to go.. what to do.. an [awesome](https://github.com/sindresorhus/awesome) list for people named [Alfred](https://github.com/AlfredGranson) (or anyone who likes it).
+> Where to go.. what to do.. a list for people named [Alfred](https://github.com/AlfredGranson) (or anyone who likes it).
 
 Table of Contents
 ----
@@ -47,6 +47,3 @@ I have to have my tools 🧰
 Honorable Mentions
 ----
 - [Phoenix Ecto Append-only Log *Example*](https://github.com/dwyl/phoenix-ecto-append-only-log-example)
-
-[AWESOME BADGE]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[AWESOME PAGE]: https://github.com/sindresorhus/awesome
