@@ -12,7 +12,7 @@ Frameworks
 - [Graphiti](https://www.graphiti.dev/) [:octocat:](https://github.com/graphiti-api/graphiti) [(ruby)](https://www.ruby-lang.org/en/)/[(rails)](https://rubyonrails.org/)
 - [Phoenix](https://phoenixframework.org/) [:octocat:](https://github.com/phoenixframework/phoenix) [:books:](https://hexdocs.pm/phoenix/Phoenix.html) [(elixir)](https://elixir-lang.org/)
 
-Standards
+Conventions
 ----
 - [json:api](https://jsonapi.org/)
 - [Scripts To Rule Them All](https://github.com/github/scripts-to-rule-them-all)
