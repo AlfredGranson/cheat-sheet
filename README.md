@@ -29,6 +29,7 @@ Documentation
 Semantics
 ----
 - [awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web)
+- [Schema.org](https://schema.org/)
 
 DevOps
 ----
