@@ -21,6 +21,7 @@ Conventions
 - [EditorConfig](https://editorconfig.org/)
 - [dotenv](https://github.com/search?q=dotenv)
 - [mailmap](https://git-scm.com/docs/gitmailmap)
+- [jwt](https://jwt.io/introduction) (obviously pronounced "JOT")
 
 Documentation
 ----
