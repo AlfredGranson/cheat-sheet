@@ -12,6 +12,12 @@ Frameworks
 - [Graphiti](https://www.graphiti.dev/) [:octocat:](https://github.com/graphiti-api/graphiti) [(ruby)](https://www.ruby-lang.org/en/)/[(rails)](https://rubyonrails.org/)
 - [Phoenix](https://phoenixframework.org/) [:octocat:](https://github.com/phoenixframework/phoenix) [:books:](https://hexdocs.pm/phoenix/Phoenix.html) [(elixir)](https://elixir-lang.org/)
 
+Front-ends
+----
+- [elm](https://elm-lang.org/) [:octocat:](https://github.com/elm)
+- [Alpine.js](https://alpinejs.dev/) [:octocat:](https://github.com/alpinejs/alpine)
+- [Vue.js](https://vuejs.org/) [:octocat:](https://github.com/vuejs/)
+
 Conventions
 ----
 - [json:api](https://jsonapi.org/)
@@ -45,6 +51,6 @@ I have to have my tools 🧰
 - [IcoMoon](https://icomoon.io/app/)
 - [Postman](https://www.postman.com/)
 
-Honorable Mentions
+Interesting reads
 ----
 - [Phoenix Ecto Append-only Log *Example*](https://github.com/dwyl/phoenix-ecto-append-only-log-example)
